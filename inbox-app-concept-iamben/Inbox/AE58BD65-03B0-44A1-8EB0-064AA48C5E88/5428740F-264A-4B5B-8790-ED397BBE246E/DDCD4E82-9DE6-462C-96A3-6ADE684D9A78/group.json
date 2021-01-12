@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -43,10 +43,6 @@
     {
       "class": "group",
       "id": "BFF0101F-0A4E-40A8-BD16-3DB13DDCEAAC"
-    },
-    {
-      "class": "group",
-      "id": "C7E11FD3-349F-4025-A333-1013CA87E41B"
     },
     {
       "class": "text",
