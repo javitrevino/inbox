@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E051685-1C41-432D-8E6B-721A29887F09",
+  "do_objectID": "3E99E29A-EC72-4AE0-BA23-74277EEF2D6B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 20,
-    "y": 20
+    "height": 108,
+    "width": 386,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,14 +30,34 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "1375853D-6FD6-4E7A-9BF6-934C84FBABA9"
+      "class": "rectangle",
+      "id": "5071A9B9-DE9D-4935-848B-7AD3744CB07F"
+    },
+    {
+      "class": "group",
+      "id": "A62B8B67-93A4-4CFD-9EB1-B720E33CC714"
+    },
+    {
+      "class": "text",
+      "id": "089CD82A-C601-4AA4-904D-04DC1E7DEA93"
+    },
+    {
+      "class": "text",
+      "id": "B7B1F938-A74C-4714-90ED-314295B197FD"
+    },
+    {
+      "class": "text",
+      "id": "8459014E-7962-4F09-A5D3-87CCF39C5236"
+    },
+    {
+      "class": "group",
+      "id": "DF98B7DE-E942-4062-9D7C-90F71951F502"
     }
   ],
-  "name": "avatar",
+  "name": "ashley-smith",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3414D4DA-01FB-4ED7-9245-960DD492BD46",
+    "do_objectID": "B84A9CBF-C436-42A6-BA23-01DCD6E42CC2",
     "endMarkerType": 0,
     "fills": [
     ],

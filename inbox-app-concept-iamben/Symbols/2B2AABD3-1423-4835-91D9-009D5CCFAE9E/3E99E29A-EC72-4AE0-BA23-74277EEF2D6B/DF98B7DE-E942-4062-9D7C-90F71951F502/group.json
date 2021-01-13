@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E051685-1C41-432D-8E6B-721A29887F09",
+  "do_objectID": "DF98B7DE-E942-4062-9D7C-90F71951F502",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -34,7 +34,7 @@
   "layers": [
     {
       "class": "oval",
-      "id": "1375853D-6FD6-4E7A-9BF6-934C84FBABA9"
+      "id": "4354F3E0-9E31-400F-9180-66ABFA1778D2"
     }
   ],
   "name": "avatar",
@@ -77,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3414D4DA-01FB-4ED7-9245-960DD492BD46",
+    "do_objectID": "158CA2FA-4F8B-4538-84A9-5E548B4F9495",
     "endMarkerType": 0,
     "fills": [
     ],
