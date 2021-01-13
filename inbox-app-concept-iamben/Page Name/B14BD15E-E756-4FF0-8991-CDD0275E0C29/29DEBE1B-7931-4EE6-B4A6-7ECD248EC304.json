@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1E68C379-8CA8-404B-8EA3-756929EE1D28",
+  "do_objectID": "29DEBE1B-7931-4EE6-B4A6-7ECD248EC304",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,44 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 530,
+    "width": 891,
+    "x": 80,
+    "y": 112
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -581,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "50184921-555D-4A35-838A-CF0B74E773FE"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "0FCF1F77-B11C-4A3F-A9B3-5E4905A6C302"
-    }
-  ],
-  "name": "Symbols",
+  "name": "Desktop/Surfaces/Accordion/Multi Tier Accordion",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -88,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D01AC382-CC23-4C02-8502-B3356280C51A",
+    "do_objectID": "A2FB233E-A49B-48F2-B822-EE1B3BFD16F2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -621,
-    "guides": [
-    ]
-  }
+  "symbolID": "881E1255-AC72-4DE8-918F-02AFBBCBB879",
+  "verticalSpacing": 0
 }

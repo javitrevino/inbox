@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1E68C379-8CA8-404B-8EA3-756929EE1D28",
+  "do_objectID": "48516008-C56F-4CA3-8709-7063A8D1489E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,44 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 71,
+    "width": 891,
     "x": 0,
-    "y": 0
+    "y": 142
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -581,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "50184921-555D-4A35-838A-CF0B74E773FE"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "0FCF1F77-B11C-4A3F-A9B3-5E4905A6C302"
-    }
-  ],
-  "name": "Symbols",
+  "name": "Desktop/Surfaces/Accordion/L3",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -88,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D01AC382-CC23-4C02-8502-B3356280C51A",
+    "do_objectID": "0094C380-FF99-463F-B3B1-5B4335B906DF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -621,
-    "guides": [
-    ]
-  }
+  "symbolID": "AB5BE3B4-74BD-4037-A148-305CF08C4664",
+  "verticalSpacing": 0
 }

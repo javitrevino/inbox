@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "50184921-555D-4A35-838A-CF0B74E773FE",
+  "do_objectID": "0FCF1F77-B11C-4A3F-A9B3-5E4905A6C302",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 108,
-    "width": 386,
-    "x": 100,
+    "height": 530,
+    "width": 891,
+    "x": 586,
     "y": 0
   },
   "groupLayout": {
@@ -49,35 +49,55 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "30DBC7F9-48A6-4764-9283-B67B6635DE1B"
+      "id": "D2591EC0-6A3A-4E1C-859A-E8827BAF8FB0"
     }
   ],
-  "name": "card",
-  "nameIsFixed": false,
+  "name": "New Symbol Name v1.0",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E3D542EB-32C8-4FD4-932C-7253943409D7_stringValue"
+      "overrideName": "92C84A4D-BA6B-499A-B4B6-CC83EE0FBC5A_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EBB140F5-14D4-4FF2-B72E-688B1C26EF43_stringValue"
+      "overrideName": "8B000231-D31C-4B3C-8656-A2CA1E98980D_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "104FA1FE-C43A-4AB0-8C91-F2D854BDDE3B_stringValue"
+      "overrideName": "48516008-C56F-4CA3-8709-7063A8D1489E_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "451999A9-9ADA-40D2-A838-AC31BB830D20_stringValue"
+      "overrideName": "DC4BA93A-909E-4775-82DA-9EFAD6742072_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F068BF34-0CFA-439D-8D4F-DA9D491B93FD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E47259A-B9E4-406E-90FC-8C69AB2A97A0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "05A31AAC-3AE1-40B9-9B86-E7B439C2E90B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AC628068-8E62-44E9-AF7E-4B84014366D0_symbolID"
     }
   ],
   "presetDictionary": {
@@ -121,7 +141,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9943F58C-B786-427E-A1E7-29738A1134A4",
+    "do_objectID": "303FCA95-6ACF-4149-953A-77C67DE74961",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -133,7 +153,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F58AB9DE-C2D9-4325-8601-BFC5BAD5633C",
+  "symbolID": "881E1255-AC72-4DE8-918F-02AFBBCBB879",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

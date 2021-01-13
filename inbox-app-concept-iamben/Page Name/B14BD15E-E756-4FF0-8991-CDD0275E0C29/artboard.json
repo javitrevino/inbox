@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -10,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "50184921-555D-4A35-838A-CF0B74E773FE",
+  "do_objectID": "B14BD15E-E756-4FF0-8991-CDD0275E0C29",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 108,
-    "width": 386,
-    "x": 100,
-    "y": 0
+    "height": 1008,
+    "width": 1051,
+    "x": 3495,
+    "y": -167
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -52,34 +50,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "30DBC7F9-48A6-4764-9283-B67B6635DE1B"
+      "class": "symbolInstance",
+      "id": "29DEBE1B-7931-4EE6-B4A6-7ECD248EC304"
     }
   ],
-  "name": "card",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E3D542EB-32C8-4FD4-932C-7253943409D7_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EBB140F5-14D4-4FF2-B72E-688B1C26EF43_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "104FA1FE-C43A-4AB0-8C91-F2D854BDDE3B_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "451999A9-9ADA-40D2-A838-AC31BB830D20_stringValue"
-    }
-  ],
+  "name": "New Artboard Name",
+  "nameIsFixed": true,
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -121,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9943F58C-B786-427E-A1E7-29738A1134A4",
+    "do_objectID": "1FB17075-DF31-471E-AB93-4F5171C59A3C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -133,7 +109,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F58AB9DE-C2D9-4325-8601-BFC5BAD5633C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
