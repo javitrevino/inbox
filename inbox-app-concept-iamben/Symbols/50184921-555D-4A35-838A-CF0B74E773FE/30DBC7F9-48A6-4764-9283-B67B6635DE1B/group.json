@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "20243C1D-19B5-4BF8-A93F-3A393D02569C",
+  "do_objectID": "30DBC7F9-48A6-4764-9283-B67B6635DE1B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 624,
-    "width": 535,
-    "x": 214,
-    "y": 190
+    "height": 108,
+    "width": 386,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,27 +33,31 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "9FD424D3-9BEE-40BB-B555-59552A02AB00"
+      "class": "rectangle",
+      "id": "21D88131-EF14-4269-BC7C-3D27C12F55A0"
     },
     {
       "class": "group",
-      "id": "28E763CE-69D3-442E-962F-7168555012F1"
+      "id": "C4788C66-229F-43B5-A013-2C2EFA8ED811"
     },
     {
-      "class": "symbolInstance",
-      "id": "8C71AAC2-F244-4E7B-8C9F-B8B2D75FC651"
+      "class": "text",
+      "id": "EBB140F5-14D4-4FF2-B72E-688B1C26EF43"
+    },
+    {
+      "class": "text",
+      "id": "451999A9-9ADA-40D2-A838-AC31BB830D20"
+    },
+    {
+      "class": "text",
+      "id": "104FA1FE-C43A-4AB0-8C91-F2D854BDDE3B"
     },
     {
       "class": "group",
-      "id": "0E4A77F9-9CD4-40FE-B7B8-5D0359194EE2"
-    },
-    {
-      "class": "group",
-      "id": "160C5A9C-4E78-4F56-A0C1-62EDD3D37B36"
+      "id": "5E051685-1C41-432D-8E6B-721A29887F09"
     }
   ],
-  "name": "messages-list",
+  "name": "ashley-smith",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "68689ADB-59FD-410A-8D28-F386FF49D377",
+    "do_objectID": "6EEA2268-D064-4017-B621-092457FE3454",
     "endMarkerType": 0,
     "fills": [
     ],

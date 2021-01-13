@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "20243C1D-19B5-4BF8-A93F-3A393D02569C",
+  "do_objectID": "1E68C379-8CA8-404B-8EA3-756929EE1D28",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 624,
-    "width": 535,
-    "x": 214,
-    "y": 190
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -581,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "9FD424D3-9BEE-40BB-B555-59552A02AB00"
-    },
-    {
-      "class": "group",
-      "id": "28E763CE-69D3-442E-962F-7168555012F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8C71AAC2-F244-4E7B-8C9F-B8B2D75FC651"
-    },
-    {
-      "class": "group",
-      "id": "0E4A77F9-9CD4-40FE-B7B8-5D0359194EE2"
-    },
-    {
-      "class": "group",
-      "id": "160C5A9C-4E78-4F56-A0C1-62EDD3D37B36"
+      "class": "symbolMaster",
+      "id": "50184921-555D-4A35-838A-CF0B74E773FE"
     }
   ],
-  "name": "messages-list",
-  "nameIsFixed": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -93,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "68689ADB-59FD-410A-8D28-F386FF49D377",
+    "do_objectID": "D01AC382-CC23-4C02-8502-B3356280C51A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,5 +95,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -621,
+    "guides": [
+    ]
   }
 }
