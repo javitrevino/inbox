@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E051685-1C41-432D-8E6B-721A29887F09",
+  "do_objectID": "29DEBE1B-7931-4EE6-B4A6-7ECD248EC304",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 20,
-    "y": 20
+    "height": 530,
+    "width": 891,
+    "x": 80,
+    "y": 112
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "oval",
-      "id": "1375853D-6FD6-4E7A-9BF6-934C84FBABA9"
-    }
+  "layerListExpandedType": 0,
+  "name": "Desktop/Surfaces/Accordion/Multi Tier Accordion",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "avatar",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -77,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3414D4DA-01FB-4ED7-9245-960DD492BD46",
+    "do_objectID": "A2FB233E-A49B-48F2-B822-EE1B3BFD16F2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "881E1255-AC72-4DE8-918F-02AFBBCBB879",
+  "verticalSpacing": 0
 }
