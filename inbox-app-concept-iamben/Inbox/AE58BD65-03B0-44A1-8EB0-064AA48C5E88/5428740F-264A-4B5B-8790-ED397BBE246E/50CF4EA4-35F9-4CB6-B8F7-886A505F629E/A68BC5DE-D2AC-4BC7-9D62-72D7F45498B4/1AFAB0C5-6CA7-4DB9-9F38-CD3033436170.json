@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Graphik-Regular",
+              "name": "SourceSansPro-Regular",
               "size": 14
             }
           },
@@ -62,11 +62,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 2,
         "location": 71
       }
     ],
-    "string": "Let me know what you think (though I’m pretty sure you will like them) 🔥🔥🔥"
+    "string": "Let me know what you think (though I’m pretty sure you will like them) 🔥"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,11 +86,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 534,
+    "width": 447,
     "x": 0,
     "y": 110
   },
-  "glyphBounds": "{{1, 5}, {531, 18}}",
+  "glyphBounds": "{{1, 5}, {444, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +98,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "Let me know what you",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -162,7 +162,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Graphik-Regular",
+            "name": "SourceSansPro-Regular",
             "size": 14
           }
         },
