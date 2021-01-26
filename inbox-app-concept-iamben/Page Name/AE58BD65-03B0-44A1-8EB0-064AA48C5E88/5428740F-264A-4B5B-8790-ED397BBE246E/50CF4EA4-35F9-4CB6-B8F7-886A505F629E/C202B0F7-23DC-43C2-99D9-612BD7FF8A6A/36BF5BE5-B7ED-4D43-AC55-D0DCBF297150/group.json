@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 254,
-    "width": 343,
-    "x": 320,
+    "width": 411,
+    "x": 170,
     "y": 0
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
